@@ -21,7 +21,7 @@ export default function banner() {
           <Heading
             color="gray.100"
             fontWeight="500"
-            font-size={["xl", "2l", "2xl", "2xl", "4xl"]}
+            fontSize={["xl", "2l", "2xl", "2xl", "4xl"]}
           >
             5 continentes, <br /> infinitas possibilidades.
           </Heading>
