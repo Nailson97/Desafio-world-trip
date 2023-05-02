@@ -12,8 +12,15 @@ export default function Home() {
       <Banner />
       <Opcoes />
       <Separador />
-      <Heading textAlign='center' fontWeight='500' mb={['5','14']} fontSize={['lg','3xl','4xl']}>
-        Vamos nessa?<br />Então escolha seu continente
+      <Heading
+        textAlign="center"
+        fontWeight="500"
+        mb={["5", "14"]}
+        fontSize={["lg", "3xl", "4xl"]}
+      >
+        Vamos nessa?
+        <br />
+        Então escolha seu continente
       </Heading>
       <Slider />
     </Flex>
